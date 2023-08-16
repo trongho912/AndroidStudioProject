@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ThirtyDaysApp</string>
+    <string name="day1">Day1</string>
+    <string name="day2">Day2</string>
+    <string name="day3">Day3</string>
+    <string name="day4">Day4</string>
+    <string name="day5">Day5</string>
+    <string name="day6">Day6</string>
+    <string name="day7">Day7</string>
+    <string name="day8">Day8</string>
+    <string name="day9">Day9</string>
+    <string name="day10">Day10</string>
+    <string name="day11">Day11</string>
+    <string name="day12">Day12</string>
+    <string name="day13">Day13</string>
+    <string name="day14">Day14</string>
+    <string name="day15">Day15</string>
+    <string name="content1">Doing something good 1</string>
+    <string name="content2">Doing something good 2</string>
+    <string name="content3">Doing something good 3</string>
+    <string name="content4">Doing something good 4</string>
+    <string name="content5">Doing something good 5</string>
+    <string name="content6">Doing something good 6</string>
+    <string name="content7">Doing something good 7</string>
+    <string name="content8">Doing something good 8</string>
+    <string name="content9">Doing something good 9</string>
+    <string name="content10">Doing something good 10</string>
+    <string name="content11">Doing something good 11</string>
+    <string name="content12">Doing something good 12</string>
+    <string name="content13">Doing something good 13</string>
+    <string name="content14">Doing something good 14</string>
+    <string name="content15">Doing something good 15</string>
+</resources>
