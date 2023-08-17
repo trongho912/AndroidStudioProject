@@ -30,4 +30,5 @@
     <string name="content13">Doing something good 13</string>
     <string name="content14">Doing something good 14</string>
     <string name="content15">Doing something good 15</string>
+    <string name="hiddenContent">Some hidden content</string>
 </resources>
