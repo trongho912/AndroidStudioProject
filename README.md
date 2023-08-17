@@ -1,1 +1,1 @@
-# AndroidStudioProject
+# AndroidStudioProject - 30DaysApp
