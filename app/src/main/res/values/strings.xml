@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Tiệm Cafe Saigon</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_district_fragment_label">Quận</string>
+    <string name="list_coffee_fragment_label">Tiệm Cafe</string>
+    <string name="detail_fragment_label">Chi tiết</string>
+
+    <string name="district_1">Quận 1</string>
+    <string name="district_3">Quận 3</string>
+    <string name="district_5">Quận 5</string>
+    <string name="thu_duc_city">Thành phố Thủ Đức</string>
+
+    <string name="beanthere_d1">Beanthere Cafe</string>
+    <string name="kohi_d1">KOHI Café</string>
+    <string name="coma_d1">COMA Coffee</string>
+    <string name="little_hanoi_d1">Litlle Hanoi Egg Coffee</string>
+    <string name="cheese_d1">Cheese Coffee Lam Sơn</string>
+    <string name="paul_d1">Cafe Paul 1932</string>
+    <string name="opalm_d3">O\'Palm Cafe</string>
+    <string name="threeoclock_d3">Three O’ Clock Nguyễn Thị Minh Khai</string>
+    <string name="seat_d3">The Seat Cafe</string>
+    <string name="oz_d3">OZ Coffee House</string>
+    <string name="xyz_d3">XYZ Café &amp; Artspace</string>
+    <string name="anh_d3">Anh Coffee Roastery</string>
+    <string name="lac_d5">Lạc Concept</string>
+    <string name="september_d5">September Cafe &amp; Cake</string>
+    <string name="danshari_d5">Danshari Coffee</string>
+    <string name="rosieposie_d5">Rosie Posie - Signature Café</string>
+    <string name="lucid_d5">Lucid Coffee</string>
+    <string name="mof_d5">MOF Japanese Dessert Cafe</string>
+    <string name="vibes_td">The Vibes</string>
+    <string name="olin_td">Olin Cafe</string>
+    <string name="dome_td">DOME Saigon</string>
+    <string name="logan_td">Logan Station</string>
+    <string name="rooftop_td">Cà phê Mây Chiều Rooftop</string>
+    <string name="elmar_td">EL mar the caffè</string>
+
+    <string name="beanthere_d1_address">42 Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh</string>
+    <string name="kohi_d1_address">33 Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh</string>
+    <string name="coma_d1_address">15-17 Phan Chu Trinh, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh</string>
+    <string name="little_hanoi_d1_address">212 Lê Lai, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh</string>
+    <string name="cheese_d1_address">9 Công Trường Lam Sơn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh</string>
+    <string name="paul_d1_address">5/7 Nguyễn Siêu, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh </string>
+    <string name="opalm_d3_address">25A Tú Xương, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh</string>
+    <string name="threeoclock_d3_address">462 Nguyễn Thị Minh Khai, Phường 2, Quận 3, Thành phố Hồ Chí Minh</string>
+    <string name="seat_d3_address">491/2 Lê Văn Sỹ, Phường 12, Quận 3, Thành phố Hồ Chí Minh</string>
+    <string name="oz_d3_address">31 Đ. Lê Văn Sỹ, Phường 13, Quận 3, Thành phố Hồ Chí Minh</string>
+    <string name="xyz_d3_address">50 Đường Nguyễn Văn Mai, Phường 8, Quận 3, Thành phố Hồ Chí Minh</string>
+    <string name="anh_d3_address">200 Pasteur, Phường 6, Quận 3, Thành phố Hồ Chí Minh</string>
+    <string name="lac_d5_address">Hẻm 120 Trần Bình Trọng, Phường 2, Quận 5, Thành phố Hồ Chí Minh</string>
+    <string name="september_d5_address">118/1D Nguyễn Trãi, Phường 3, Quận 5, Thành phố Hồ Chí Minh</string>
+    <string name="danshari_d5_address">133/3 Nguyễn Chí Thanh, Phường 9, Quận 5, Thành phố Hồ Chí Minh</string>
+    <string name="rosieposie_d5_address">17 Trần Hưng Đạo, Phường 7, Quận 5, Thành phố Hồ Chí Minh</string>
+    <string name="lucid_d5_address">329 An Dương Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh </string>
+    <string name="mof_d5_address">126 Hồng Bàng, Phường 12, Quận 5, Thành phố Hồ Chí Minh</string>
+    <string name="vibes_td_address">51bis Phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</string>
+    <string name="olin_td_address">220 Trần Não, Khu phố 1, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</string>
+    <string name="dome_td_address">32 Bác Ái, Phường Bình Thọ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</string>
+    <string name="logan_td_address">2 Đường số 19A, Phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</string>
+    <string name="rooftop_td_address"> 82 Đường số 17, Phường Hiệp Bình Chánh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</string>
+    <string name="elmar_td_address">9 Einstein, Phường Bình Thọ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</string>
+
+    <string name="coffee_list_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum.</string>
+    <string name="coffee_detail_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+    </string>
+
+    <string name="back_button">Trở lại</string>
+</resources>
