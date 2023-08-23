@@ -5,7 +5,8 @@ import com.example.mycity.model.CoffeeInfo
 import com.example.mycity.model.District
 
 object DataProvider {
-    val default = getCoffeeData()[0]
+    val defaultDistrict = getCoffeeData()[0]
+    val defaultCoffee = getCoffeeData()[0].coffeeList[0]
 
     fun getCoffeeData(): List<District> {
         return listOf(
